@@ -1,15 +1,20 @@
 ## About My Project
 
-mBot Neo
+Queryable Computer Vision For Traffic Video Analysis
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem:
+There is a significant research gap in the timely detection and response to crimes in dangerous campus areas. Current solutions, such as the POM device, which alerts campus security when clicked three times, are insufficient in preventing late arrival of help during incidents like shootings, robberies, and assaults.
 
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
+Approach:
+During this project, I will develop a system that detects suspicious activities to foster a safer community. The system will include:
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+  - Tracking jaywalkers by focusing on the region of interest (ROI).
+  - Detecting red light driver violators using a traffic light detection system that identifies red, yellow, and green lights through HSV.
+  - Building the system to be queryable using MySQL for effective data management and retrieval.
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+Expected Outcome:
+The project aims to enhance my machine learning skills and ultimately provide a safer environment, starting with our University's community and expanding to a broader society.
+
+An additional implementation I want to include is a OCR system that analysis the licence plates of passing vehicles, to make it easier ot trace back the violators, but a possible roadblock I imagine encountering is the incorrect identification of number plates if it's halfway blocked by other obstacles (vehicles, people, animals), or the video quality may not be good enough.
 
 
