@@ -4,6 +4,7 @@ As a graduate research assistant at Morgan State University, Tasmeer Alam applie
 
 My other mentor is Rezoan Sultan. As a Graduate Research Assistant, Rezoan Sultan brings a wealth of expertise and experience to his role. With a solid background in the Import and Supply Chain industry, he has supervised and managed projects for a world-leading organization, demonstrating his strong skills in data analysis and visualization. Resuan holds a Bachelor's degree in Electrical and Electronic Engineering and a Master's degree in Information Technology, with a focus on Data Management and Analytics. His diverse skill set and academic background equip him with the tools to tackle complex data challenges, making him a valuable mentor in the AI research summer institute at Morgan State University, CEAMLS program.
 
+
 [Mentor (Tasmeer Alam's) LinkedIn](https://www.linkedin.com/in/tasmeer-alam-7245a6b7/)
 
 [Mentor (Rezoan Sultan's) LinkedIn](https://www.linkedin.com/in/rezoan-bin-sultan-bipu/)
