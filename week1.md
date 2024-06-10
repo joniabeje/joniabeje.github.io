@@ -4,7 +4,7 @@ title: Week 1
 author: Jonathan Abeje
 ---
 
-During the first week, I met with Dr. Nyarko and my graduate mentors Tasmeer and Rezoan to discuss 
+During the first week, I met with Dr. Nyarko and my graduate mentors, Tasmeer and Rezoan, to discuss 
 the project that I will be working on and gained an understanding of what Dr. Nyarko will be looking
 for. My mentor Tasmeer also explained to me what "Queryable Computer Vision Pipeline", is along 
 with its practical applications such as traffic survailance, robotics, medical imaging,
