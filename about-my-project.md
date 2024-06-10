@@ -15,6 +15,6 @@ During this project, I will develop a system that detects suspicious activities 
 Expected Outcome:
 The project aims to enhance my machine learning skills and ultimately provide a safer environment, starting with our University's community and expanding to a broader society.
 
-An additional implementation I want to include is a OCR system that analysis the licence plates of passing vehicles, to make it easier ot trace back the violators, but a possible roadblock I imagine encountering is the incorrect identification of number plates if it's halfway blocked by other obstacles (vehicles, people, animals), or the video quality may not be good enough.
+An additional implementation I want to include is the EasyOCR system that analyzes the license plates of passing vehicles, to make it easier to trace back the violators. However, a possible roadblock I imagine encountering is the incorrect identification of number plates if it's halfway blocked by other obstacles (vehicles, people, animals), or if the video quality isn't good enough.
 
 
