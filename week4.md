@@ -1,6 +1,8 @@
-
-
-
+---
+layout: post
+title: Week 3
+author: Jonathan Abeje
+---
 
 ### Accomplishments
 
@@ -21,3 +23,5 @@ We utilized a combination of YOLOv8 object detection and HSV color space-based d
 ### Issues/Frustrations Encountered
 
 We encountered challenges in accurately differentiating yellow lights from yellow backgrounds and fine-tuning the HSV range for green detection. Additionally, integrating YOLOv8 with custom HSV processing posed complexities in managing concurrent detections and ensuring smooth real-time processing. Through iterative adjustments and thorough testing, we overcame these obstacles, achieving precise detection results and a robust detection system.
+
+
