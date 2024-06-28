@@ -6,15 +6,15 @@ author: Jonathan Abeje
 
 ### Accomplishments
 
-During this session, we focused on advancing the integration of YOLOv8 object detection with custom HSV-based color detection for traffic lights. We started by ensuring the selection of Regions of Interest (ROIs) in video frames, which allows users to focus detection on specific areas, such as traffic lights. We then successfully combined YOLOv8 for detecting specific objects (person, car, truck) and custom HSV processing for identifying traffic light colors. This integration included handling dual HSV ranges for red, improving mask refinement using morphological operations, and ensuring real-time frame-by-frame processing.
+This week, we focused on advancing the integration of YOLOv8 object detection with custom HSV-based color detection for traffic lights. We started by ensuring the selection of Regions of Interest (ROIs) in video frames, which allows users to focus detection on specific areas, such as traffic lights. We then successfully combined YOLOv8 for detecting specific objects (person, car, truck) and custom HSV processing for identifying traffic light colors. This integration included handling dual HSV ranges for red, improving mask refinement using morphological operations, and ensuring real-time frame-by-frame processing.
 
 ### Results
 
-By the end of the session, our combined detection script accurately identified and labeled red, yellow, and green traffic lights within the specified ROIs while concurrently detecting persons, cars, and trucks using YOLOv8. The refined mask and contour detection significantly improved the precision of traffic light detection, and the system demonstrated effective real-time processing capabilities.
+By the end of the week, our combined detection script accurately identified and labeled red, yellow, and green traffic lights within the specified ROIs while concurrently detecting persons, cars, and trucks using YOLOv8. The refined mask and contour detection significantly improved the precision of traffic light detection, and the system demonstrated effective real-time processing capabilities.
 
 ### Findings
 
-Throughout the session, we gained a deeper understanding of the importance of combining YOLOv8's object detection with HSV color space processing for focused tasks. Managing dual HSV ranges for red and adjusting HSV ranges for yellow and green were critical for accurate traffic light detection. The use of morphological operations and contour detection greatly enhanced the ability to isolate traffic lights from complex backgrounds.
+Throughout the week, we gained a deeper understanding of the importance of combining YOLOv8's object detection with HSV color space processing for focused tasks. Managing dual HSV ranges for red and adjusting HSV ranges for yellow and green were critical for accurate traffic light detection. The use of morphological operations and contour detection greatly enhanced the ability to isolate traffic lights from complex backgrounds.
 
 ### Algorithm(s) Used
 
