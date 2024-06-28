@@ -18,3 +18,5 @@ We utilized a combination of YOLOv8 object detection and HSV color space-based d
 
 ### Issues/Frustrations Encountered
 The main challenge I encountered was integrating YOLOv8 with custom HSV ranges and ROIs. This brought difficulties related to the processing speed and managing concurrent detections to ensuring smooth real-time processing. Through iterative adjustments and thorough testing, we overcame these obstacles, achieving precise detection results and a robust detection system. I also plan on using the NVIDIA GPU instead of my computer's CPU in order to process the frames per second faster.
+
+[Back](./)
