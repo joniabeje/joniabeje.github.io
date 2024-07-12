@@ -1,4 +1,8 @@
-
+---
+layout: post
+title: Week 3
+author: Jonathan Abeje
+---
 
 
 ### Accomplishments
@@ -18,3 +22,5 @@ The main challenge encountered was ensuring the SQL database could handle real-t
 
 ### Presentation
 I successfully delivered my mid-summer research presentation and demoed the video to the public, showcasing our progress and the practical applications of our detection system with SQL integration. This presentation highlighted the real-world impact and potential of our work, demonstrating the value of our enhanced data logging and analysis capabilities.
+
+[Back](/.)
