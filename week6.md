@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 3
+title: Week 6
 author: Jonathan Abeje
 ---
 
@@ -16,6 +16,6 @@ The updated script successfully detected and labeled vehicles running red lights
 Combining YOLOv8 for object detection with HSV color space processing for traffic light color identification is an effective method. The use of morphological operations and contour detection significantly improved the accuracy of isolating traffic lights from complex backgrounds.
 
 ### Issues/Frustrations Encountered
-The main issue was finding a clip of a red light dasher that we had to resort to using the yellow light for testing instead as no cars violated this from the clip we were given. Still we were able to exectute it as if there was someone violating this traffic rule. 
+The main issue was finding a clip of a red light dasher that we had to resort to using the yellow light for testing instead as no cars violated this from the clip we were given. Still we were able to execute it as if there was someone violating this traffic rule. 
 
 [Back](./)
