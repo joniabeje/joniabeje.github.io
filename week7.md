@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 3
+title: Week 7
 author: Jonathan Abeje
 ---
 
