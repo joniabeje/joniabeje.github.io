@@ -8,6 +8,6 @@ During the first week, I met with Dr. Nyarko and my graduate mentors, Tasmeer an
 
 Overall, this week was more of a bootcamp to prepare for the project that we will be working on beginning in week 2. In this bootcamp we first went over Object Oriented Programming topics, including Classes and Objects, Inheritance and Encapsulation. The following day, we covered the major Python libraries and frameworks for machine learning such as NumPy, Pandas, Matplotlib, and Scikit-Learn. We also learned version control through Git and GitHub as well as website building with GutHub.
 
-We ended the week off by taking professional headshots and social networking. I had the opportunity to connect with several members in the CEAMLS AI Research Institute, and I am extremely eager to to begin working on my project.
+We ended the week off by taking professional headshots and social networking. I had the opportunity to connect with several members in the CEAMLS Research Institute, and I am extremely eager to to begin working on my project.
 
 [Back](./)
