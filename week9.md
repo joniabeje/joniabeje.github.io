@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 8
+title: Week 9
 author: Jonathan Abeje
 ---
 
@@ -14,7 +14,9 @@ By the end of the week, our system correctly identified and logged only those ve
 During the refinement process, we learned the critical importance of precise conditional checks within our detection logic. Ensuring that only specific vehicle types (cars, trucks, and buses) could be marked as red-light dashers was essential to improve accuracy. This process also highlighted the need for continuous testing and validation to ensure the detection logic aligns with real-world scenarios.
 
 ### Algorithm(s) used
-We continued utilizing the YOLOv8 object detection model, focusing on enhancing its capability to accurately detect and log red-light dashers. The updated logic now includes a condition to check for specific vehicle types and only mark them as dashers when the YOLO model prints 'Dasher' on the screen. This enhancement ensures that our logging mechanism is accurate and reliable.
+We continued utilizing the YOLOv8s-world object detection model, focusing on enhancing its capability to accurately detect and log red-light dashers. The updated logic now includes a condition to check for specific vehicle types and only mark them as dashers when the YOLO model prints 'Dasher' on the screen. This enhancement ensures that our logging mechanism is accurate and reliable.
 
 ### Issues/Frustrations Encountered
 A significant challenge this week was ensuring that only the correct vehicles were marked as red-light dashers. This required revisiting the detection logic and adding specific conditions to filter out false positives. Additionally, updating the SQL queries to reflect these changes accurately in the database required careful consideration and testing. Balancing the detection accuracy with real-time processing continued to be a challenging aspect of the project.
+
+[Back](/.)
