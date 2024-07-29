@@ -1,6 +1,8 @@
+---
 layout: post
-title: Week 9
+title: Week 8
 author: Jonathan Abeje
+---
 
 ### Accomplishments
 This week, we focused on refining the detection logic, specifically addressing the identification of red-light dashers. We implemented a condition to ensure that only vehicles flagged as dashers by the YOLO model are logged as red-light dashers. Additionally, we improved our SQL queries to accurately reflect these detections in our database, avoiding false positives.
