@@ -11,6 +11,6 @@ title: Jonathan Abeje CEAMLS SAIRI Website Summer 2024
 
    <p style="font-size: 1.0em;">Hi! My name is Jonathan Abeje and this is my CEAMLS SAIRI Website for Summer 2024.</p>
 
-   <p style="font-size: 1.2em;"><a href="https://www.linkedin.com/in/jonathan-abeje/" target="_blank">View My LinkedIn Profile</a></p>
+   <p style="font-size: 1.15em;"><a href="https://www.linkedin.com/in/jonathan-abeje/" target="_blank">View My LinkedIn Profile</a></p>
 
 </div>
