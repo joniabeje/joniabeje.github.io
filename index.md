@@ -3,9 +3,9 @@ layout: default
 title: Jonathan Abeje CEAMLS SAIRI Website Summer 2024
 ---
 
-<div style="text-align: center; padding: 50px; max-width: 1000px; margin: 0 auto;">
+<div style="text-align: center; padding: 80px; max-width: 1000px; margin: 0 auto;">
 
-   <img src="assets/img/IMG_6974.jpg" alt="Profile Image" style="max-width: 300px; height: auto; border-radius: 50%;">
+   <img src="assets/img/IMG_6974.jpg" alt="Profile Image" style="max-width: 500px; height: auto; border-radius: 50%;">
 
    <h1 style="font-size: 2.5em; margin-top: 20px;">Jonathan Abeje CEAMLS SAIRI Website Summer 2024</h1>
 
