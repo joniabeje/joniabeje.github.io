@@ -13,4 +13,6 @@ title: Jonathan Abeje CEAMLS SAIRI Website Summer 2024
 
    <p style="font-size: 1.15em;"><a href="https://www.linkedin.com/in/jonathan-abeje/" target="_blank">View My LinkedIn Profile</a></p>
 
+   <p style="font-size: 1.15em;"><a href="https://github.com/joniabeje" target="_blank">View My GitHub Profile</a></p>
+
 </div>
